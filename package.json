@@ -1,16 +1,22 @@
 {
-  "name": "express-hello-world",
+  "name": "schiffe-versenken",
   "version": "1.0.0",
-  "description": "Express Hello World on Render",
-  "main": "app.js",
-  "repository": "https://github.com/render-examples/express-hello-world",
-  "author": "Render Developers",
-  "license": "MIT",
-  "private": false,
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.0",
+    "@types/uuid": "^10.0.0",
+    "typescript": "^5.9.3",
+    "uuid": "^13.0.0"
   },
   "dependencies": {
-    "express": "^5.0.0"
+    "express": "^5.2.1"
   }
 }
