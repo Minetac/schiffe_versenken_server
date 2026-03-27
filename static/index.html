@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Schiffe versenken - Client</title>
+  <link rel="stylesheet" href="client.css" />
+</head>
+<body>
+  <main>
+    <header>
+      <button id="newGameBtn">Neues Spiel</button>
+      <button id="loadGameBtn">Laden</button>
+      <input id="gameIdInput" placeholder="Game ID" />
+      <span id="status"></span>
+    </header>
+
+    <section id="boards">
+      <div class="board-wrapper">
+        <h3>Player 1</h3>
+        <div id="board1" class="board"></div>
+      </div>
+      <div class="board-wrapper">
+        <h3>Player 2</h3>
+        <div id="board2" class="board"></div>
+      </div>
+    </section>
+
+    <aside id="legend">
+      <strong>Legende</strong>
+      <div><span class="cell ship"></span> Schiff (eigene Ansicht)</div>
+      <div><span class="cell hit"></span> Treffer</div>
+      <div><span class="cell miss"></span> Wasser / Fehlschuss</div>
+      <div><span class="cell unknown"></span> Unbekannt (Gegner)</div>
+    </aside>
+  </main>
+
+  <button id="recordBtn" hidden="true">Stimme aufnehmen</button>
+  <p id="voiceOutput"></p>
+
+  <script src="/dist/client.js"></script>
+</body>
+</html>

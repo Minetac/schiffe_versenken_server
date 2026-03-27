@@ -1,0 +1,54 @@
+ Datentr„ger in Laufwerk P: ist Personal
+ Volumeseriennummer: A886-B5DA
+
+ Verzeichnis von P:\Dokumente\Uni\Web Technologie\schiffe-versenken\node_modules
+
+22.02.2026  16:52    <DIR>          .
+22.02.2026  20:30    <DIR>          ..
+22.02.2026  16:52    <DIR>          .bin
+22.02.2026  16:52            18.742 .package-lock.json
+22.02.2026  16:52    <DIR>          @babel
+22.02.2026  16:52    <DIR>          @types
+22.02.2026  16:52    <DIR>          ansi-styles
+22.02.2026  16:52    <DIR>          argparse
+22.02.2026  16:52    <DIR>          balanced-match
+22.02.2026  16:52    <DIR>          brace-expansion
+22.02.2026  16:52    <DIR>          builtin-modules
+22.02.2026  16:52    <DIR>          chalk
+22.02.2026  16:52    <DIR>          color-convert
+22.02.2026  16:52    <DIR>          color-name
+22.02.2026  16:52    <DIR>          commander
+22.02.2026  16:52    <DIR>          concat-map
+22.02.2026  16:52    <DIR>          diff
+22.02.2026  16:52    <DIR>          escape-string-regexp
+22.02.2026  16:52    <DIR>          esprima
+22.02.2026  16:52    <DIR>          fs.realpath
+22.02.2026  16:52    <DIR>          function-bind
+22.02.2026  16:52    <DIR>          glob
+22.02.2026  16:52    <DIR>          has-flag
+22.02.2026  16:52    <DIR>          hasown
+22.02.2026  16:52    <DIR>          inflight
+22.02.2026  16:52    <DIR>          inherits
+22.02.2026  16:52    <DIR>          is-core-module
+22.02.2026  16:52    <DIR>          js-tokens
+22.02.2026  16:52    <DIR>          js-yaml
+22.02.2026  16:52    <DIR>          minimatch
+22.02.2026  16:52    <DIR>          minimist
+22.02.2026  16:52    <DIR>          mkdirp
+22.02.2026  16:52    <DIR>          once
+22.02.2026  16:52    <DIR>          path-is-absolute
+22.02.2026  16:52    <DIR>          path-parse
+22.02.2026  16:52    <DIR>          picocolors
+22.02.2026  16:52    <DIR>          resolve
+22.02.2026  16:52    <DIR>          semver
+22.02.2026  16:52    <DIR>          sprintf-js
+22.02.2026  16:52    <DIR>          supports-color
+22.02.2026  16:52    <DIR>          supports-preserve-symlinks-flag
+22.02.2026  16:52    <DIR>          tslib
+22.02.2026  16:52    <DIR>          tslint
+22.02.2026  16:52    <DIR>          tsutils
+22.02.2026  16:52    <DIR>          typescript
+22.02.2026  16:52    <DIR>          undici-types
+22.02.2026  16:52    <DIR>          wrappy
+               1 Datei(en),         18.742 Bytes
+              46 Verzeichnis(se), 209.436.409.856 Bytes frei
